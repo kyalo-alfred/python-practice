@@ -11,4 +11,4 @@ while i <= number:
   i += 1
 
 #Finalized by displaying the output
-print(f"Your factorial of:{number} is {fact}")
+print(f"Factorial of:{number} is {fact}")
